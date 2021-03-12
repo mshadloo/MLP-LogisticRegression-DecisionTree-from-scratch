@@ -1,1 +1,1 @@
-# MLP-LogisticRegression-DecisionTree-from-scratch
+# MLP, Logistic Regression and Decision Tree from scratch
